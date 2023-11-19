@@ -49,6 +49,8 @@ st.title("Image Generator App")
 num_images = st.number_input("Enter the number of images to generate", min_value=1, value=10, step=1)
 
 if st.button("Generate Images"):
+    st.markdown("Generating Images...")
+    # Generate and save the images
     save_dir, num_images = generate_and_save_images(generator, num_images)
     st.success(f"Images generated and saved in {save_dir}")
 
