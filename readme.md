@@ -29,24 +29,24 @@ The integration of GAN-based augmentation is poised to elevate model performance
 
 Explore the Dataset Augmentation Repository here <a> </a> to delve into the full implementation of the Deep Convolutional Generative Adversarial Network.
 
+## 
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <h4>A batch of the Original Dataset</h4>
-        <img src="imgs/original_batch.png" alt="Dataset Train & Validation" style="width:100%; height:auto;">
-    </div>
-    <div>
-        <h4>A batch of the Generated Dataset</h4>
-        <img src="imgs/generated_batch.png" alt="Dataset Train & Validation" style="width:100%; height:auto;">
-    </div>
-</div>
-
-
+<p align="center">
+  <div align="center" style="text-align:center; width:35%;">
+    <h3 align="center">A batch of the Original Dataset</h3>
+    <img align="center" src="imgs/original_batch.png" alt="Original Dataset" width="40%">
+  </div>
+  <div align="center" style="text-align:center; width:35%;">
+    <h3 align="center">A batch of the Generated Dataset</h3>
+    <img align="center" src="imgs/generated_batch.png" alt="Generated Dataset" width="40%">
+  </div>
+</p>
 
 
 ## Project Scope
+
 - Develop a DCGAN using TensorFlow and Keras for generating synthetic medical images.
-- Achieve high quality of Generated images by training an accurate Generator using Adversarial training.
+- Achieve high-quality of Generated images by training an accurate Generator using Adversarial training.
 - Augment the original medical dataset by creating more than 2800 images  to address the imbalance in Tuberculosis class compared to Normal class.
 - Ensure Increased diversity in the dataset for the 'Diagnosed' class,
 - Build a Streamlit app to enable the real time generation of images of the Tuberculosis Class by entering a number of images
@@ -58,7 +58,7 @@ Explore the Dataset Augmentation Repository here <a> </a> to delve into the full
 ~~~
 python -m venv "name of env"
 ~~~
-* Activate environement
+* Activate environment
 ~~~
 Source path to /Scripts/activate
 ~~~
