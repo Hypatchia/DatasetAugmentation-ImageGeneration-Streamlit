@@ -30,16 +30,17 @@ The integration of GAN-based augmentation is poised to elevate model performance
 Explore the Dataset Augmentation Repository here <a> </a> to delve into the full implementation of the Deep Convolutional Generative Adversarial Network.
 
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; text-align: center;">
-    <h4>A batch of the Original Dataset</h4>
-    <img src="imgs/original_batch.png" alt="Dataset Train & Validation" style="width:50%; height:auto;">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <h4>A batch of the Generated Dataset</h4>
-    <img src="imgs/generated_batch.png" alt="Dataset Train & Validation" style="width:50%; height:auto;">
-  </div>
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <h4>A batch of the Original Dataset</h4>
+        <img src="imgs/original_batch.png" alt="Dataset Train & Validation" style="width:100%; height:auto;">
+    </div>
+    <div>
+        <h4>A batch of the Generated Dataset</h4>
+        <img src="imgs/generated_batch.png" alt="Dataset Train & Validation" style="width:100%; height:auto;">
+    </div>
 </div>
+
 
 
 
