@@ -32,12 +32,12 @@ Explore the Dataset Augmentation Repository here <a> </a> to delve into the full
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1; text-align: center;">
-    <h4>Images from a batch of the Original Dataset</h4>
-    <img src="imgs/original_batch.png" alt="Dataset Train & Validation" style="width:30%; height:auto;">
+    <h4>A batch of the Original Dataset</h4>
+    <img src="imgs/original_batch.png" alt="Dataset Train & Validation" style="width:50%; height:auto;">
   </div>
   <div style="flex: 1; text-align: center;">
-    <h4>Images from a batch of the Generated Dataset</h4>
-    <img src="imgs/generated_batch.png" alt="Dataset Train & Validation" style="width:30%; height:auto;">
+    <h4>A batch of the Generated Dataset</h4>
+    <img src="imgs/generated_batch.png" alt="Dataset Train & Validation" style="width:50%; height:auto;">
   </div>
 </div>
 
