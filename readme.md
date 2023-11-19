@@ -1,6 +1,6 @@
 ## Overview
-
-This project is about building a streamlit app to integrate a trained Generator from a GAN to generate realistic images of a Medical Dataset of Tuberculosis, a minority class in the X ray-Chest Dataset.
+Enhancing the diversity and size of image datasets while compiled with a robust vision architecture can lead to improved model performance in various scenarios
+To addresses the need for an easy-to-use tool for dataset augmentation using GANs, This project aims to build a streamlit app to integrate a trained Generator from a GAN to generate realistic images of a Medical Dataset of Tuberculosis, a minority class in the X ray-Chest Dataset.
 
 In the field of medical imaging, certain conditions or diagnoses are underrepresented in available datasets.
 This leads to challenges in developing robust models for these minority classes.
