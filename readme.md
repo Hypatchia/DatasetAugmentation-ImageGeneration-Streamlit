@@ -59,7 +59,7 @@ Explore the Dataset Augmentation Repository here <a> </a> to delve into the full
 python -m venv "name of env"
 ~~~
 * Activate environment
-~~~
+python~~~
 Source path to /Scripts/activate
 ~~~
 * Install requirements.txt in environment
