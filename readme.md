@@ -55,21 +55,27 @@ Explore the Dataset Augmentation Repository here <a> </a> to delve into the full
 ## Steps to run 
 
 * Always Create a Virtual Environment (I am watching u, do it)
+
 ~~~
 python -m venv "name of env"
 ~~~
+
 * Activate environment
-python~~~
+  
+~~~
 Source path to /Scripts/activate
 ~~~
+
 * Install requirements.txt in environment
+
 ~~~
 pip install -r requirements.txt
 ~~~
 
 * Run streamlit app
+
 ~~~
-streamlit run app.py
+streamlit run app.py # or python -m streamlit run app.py
 ~~~
 
 
